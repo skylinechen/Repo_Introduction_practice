@@ -18,7 +18,7 @@ clean:
 #<TAB> command
 
 #First to create test_2 and you can put test_2 on the dependencies on test_1.
-#use "@" can ignore show command in terminal.
+#use "@" can ignore to show command in terminal.
 
 #test_2
 #	create file
