@@ -28,4 +28,4 @@ clean:
 #	show file content
 #
 #.DEFAULT_GOAL can definit to execute which target but only one target can execute
-# all can call many targets to execute
+# all can call many targets to execute and need to execute in order.
